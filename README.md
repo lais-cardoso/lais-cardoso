@@ -14,6 +14,8 @@ Atualmente estou me dedicando a aprender tecnologias como:
    <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" alt="Flask-logo"/>
    <img src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white" alt="R-logo"/>
    <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge" alt="JAVA-logo"/>
+   <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="ExpressJs-logo"/>
+   
    
 </div>
    
