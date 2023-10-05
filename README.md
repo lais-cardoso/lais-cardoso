@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Eu sou Laís Cardoso de Medeiros, uma pesquisadora e desenvolvedora em constante aprendizado.
+Eu sou Laís Cardoso de Medeiros, uma Pesquisadora e Desenvolvedora em constante aprendizado.
 
 Atualmente estou me dedicando a aprender tecnologias como:
 <div style="display: inline_block">
