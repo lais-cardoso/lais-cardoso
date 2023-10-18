@@ -27,7 +27,7 @@ Contato:
 
 <div style="display: flex">
    
-   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lais-cardoso&show_icons=true&theme=radical&card_width=100px)
+   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lais-cardoso&show_icons=true&theme=radical&card_width=10px)
    
    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lais-cardoso&layout=compact)
 </div>
