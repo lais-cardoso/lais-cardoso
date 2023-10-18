@@ -28,7 +28,7 @@ Atualmente estou me dedicando a aprender tecnologias como:
 
 Contato:
 <div style="display: inline_block">
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lais-cardoso&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lais-cardoso&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lais-cardoso&layout=compact)
 </div>
