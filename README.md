@@ -25,7 +25,7 @@ Atualmente estou me dedicando a aprender tecnologias como:
 </div>
 Contato:
 
-<div style="display: inline_block">
+<div style="display: flex">
    
    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lais-cardoso&show_icons=true&theme=radical)
    
